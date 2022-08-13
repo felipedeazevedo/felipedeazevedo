@@ -2,16 +2,14 @@
  
  My name is Felipe and I'm a software engineering student from Brazil. Here's some info about me!
  
+ - Currently working with FullStack development. 
+- Studing Java, Angular, Spring, Hibernate, JPA and Git
+
  ##
  
  💻 Work experience:
 - Jr FullStack Developer at PHL TI [Nov 2021 - Now]
 - Software Developer intern at PHL TI [Dez 2020 - Nov 2021]
-
-##
-
-- Currently working with FullStack development. 
-- Studing Java, Angular, Spring, Hibernate, JPA and Git
 
 <div align="left">
   <a href="https://github.com/felipedeazevedo">
