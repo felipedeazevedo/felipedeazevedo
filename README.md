@@ -1,6 +1,6 @@
 ### Hi there!
  
- My name is Felipe and I'm a SW engineering student from Brazil. Here's some info about me!
+ My name is Felipe and I'm a software engineering student from Brazil. Here's some info about me!
  
  💻 Work experience:
 - Jr FullStack Developer at PHL TI [Nov 2021 - Now]
