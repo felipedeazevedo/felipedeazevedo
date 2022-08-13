@@ -11,9 +11,9 @@
 - Currently working with FullStack development. 
 - Studing Java, Angular, Spring, Hibernate, JPA and Git
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/felipedeazevedo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedeazevedo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedeazevedo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
