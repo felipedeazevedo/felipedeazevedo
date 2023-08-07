@@ -5,7 +5,8 @@
  ##
  
  💻 Work experience:
-- FullStack Developer at Cooperforte [Aug 2022 - Now]
+- Back End Developer for BMW USA at Zallpy Digital [Jul 2023 - Now]
+- FullStack Developer at Cooperforte [Aug 2022 - Jul 2023]
 - FullStack Developer at PHL TI [Nov 2021 - Aug 2022]
 - Software Developer intern at PHL TI [Dec 2020 - Nov 2021]
 
