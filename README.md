@@ -1,6 +1,6 @@
 ### Hi there!
  
- My name is Felipe and I'm a FullStack Developer/Software Engineering student from Brazil. Here's some info about me!
+ My name is Felipe and I'm a Software Engineer from Brazil. Here's some info about me!
 
  ##
  
